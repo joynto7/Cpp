@@ -14,5 +14,6 @@ int main(){
     }else{
         std::cout << a << " " << "is smaller than" <<" " << b << std :: endl;
     }
-
+    return 0;
 }
+
